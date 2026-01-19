@@ -1,245 +1,453 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
+    <generator>Adventures in Odyssey Podcast Feed</generator>
     <title>Adventures in Odyssey Episodes</title>
     <link>https://www.focusonthefamily.com/adventuresinodyssey</link>
-    <description>Listen to previously aired Adventures in Odyssey episodes put out by Focus on the Family</description>
-    <language>en-us</language>
+    <language>en</language>
+    <copyright>© Focus on the Family</copyright>
     <itunes:author>Focus on the Family</itunes:author>
-    <itunes:category text="Kids &amp; Family"/>
+    <itunes:summary>Listen to previously aired Adventures in Odyssey episodes put out by Focus on the Family! For detailed information concerning each episode, go to fansites www.aiohq.com and www.aiowiki.com</itunes:summary>
+    <podcast:guid>adventures-in-odyssey-episodes</podcast:guid>
+    <description><![CDATA[ <p>Listen to previously aired Adventures in Odyssey episodes put out by Focus on the Family! For detailed information concerning each episode, go to fansites www.aiohq.com and www.aiowiki.com</p> ]]></description>
+    <itunes:type>episodic</itunes:type>
+    <podcast:locked>no</podcast:locked>
+    <itunes:owner>
+      <itunes:name>Focus on the Family</itunes:name>
+      <itunes:email>info@focusonthefamily.com</itunes:email>
+    </itunes:owner>
+    <itunes:new-feed-url>https://www.focusonthefamily.com/adventuresinodyssey/feed</itunes:new-feed-url>
+    <itunes:category text="Kids &amp; Family">
+      <itunes:category text="Stories for Kids"/>
+    </itunes:category>
     <itunes:image href="https://www.focusonthefamily.com/wp-content/uploads/2019/07/AIO-logo.png"/>
     <item>
       <title>Family Portraits Episode 5: You're Not Gonna Believe This</title>
-      <description>Family Portraits Episode 5 from Adventures in Odyssey</description>
+      <itunes:subtitle>Family Portraits Episode 5</itunes:subtitle>
+      <itunes:summary>Family Portraits Episode 5 from Adventures in Odyssey</itunes:summary>
+      <description><![CDATA[ <p>Family Portraits Episode 5 from Adventures in Odyssey</p> ]]></description>
+      <content:encoded><p>Family Portraits Episode 5 from Adventures in Odyssey</p></content:encoded>
       <enclosure url="http://web.archive.org/web/20140121053430oe_/media.focusonthefamily.com/aio/mp3/yourenotgonnabelievethis.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">family-portraits-5</guid>
+      <link>https://www.focusonthefamily.com/adventuresinodyssey/episodes/family-portraits-5/</link>
       <pubDate>1987-01-01T00:00:00Z</pubDate>
     </item>
     <item>
       <title>Family Portraits Episode 8: The Letter</title>
-      <description>Family Portraits Episode 8 from Adventures in Odyssey</description>
+      <itunes:subtitle>Family Portraits Episode 8</itunes:subtitle>
+      <itunes:summary>Family Portraits Episode 8 from Adventures in Odyssey</itunes:summary>
+      <description><![CDATA[ <p>Family Portraits Episode 8 from Adventures in Odyssey</p> ]]></description>
+      <content:encoded><p>Family Portraits Episode 8 from Adventures in Odyssey</p></content:encoded>
       <enclosure url="http://focusonthefamily.mc.tritondigital.com/OFF_ADVENT_ODYSS_P/media/aio/mp3/aiopodcast398.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">family-portraits-8</guid>
+      <link>https://www.focusonthefamily.com/adventuresinodyssey/episodes/family-portraits-8/</link>
       <pubDate>1987-01-01T00:00:00Z</pubDate>
     </item>
     <item>
       <title>Family Portraits Episode 9: A Different Kind of Peer Pressure</title>
-      <description>Family Portraits Episode 9 from Adventures in Odyssey</description>
+      <itunes:subtitle>Family Portraits Episode 9</itunes:subtitle>
+      <itunes:summary>Family Portraits Episode 9 from Adventures in Odyssey</itunes:summary>
+      <description><![CDATA[ <p>Family Portraits Episode 9 from Adventures in Odyssey</p> ]]></description>
+      <content:encoded><p>Family Portraits Episode 9 from Adventures in Odyssey</p></content:encoded>
       <enclosure url="http://web.archive.org/web/20140226101602oe_/media.focusonthefamily.com/aio/mp3/differentkindofpeerpressure.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">family-portraits-9</guid>
+      <link>https://www.focusonthefamily.com/adventuresinodyssey/episodes/family-portraits-9/</link>
       <pubDate>1987-01-01T00:00:00Z</pubDate>
     </item>
     <item>
       <title>1: Whit's Flop</title>
-      <description>Episode 1 from Adventures in Odyssey</description>
+      <itunes:subtitle>Episode 1</itunes:subtitle>
+      <itunes:summary>Episode 1 from Adventures in Odyssey</itunes:summary>
+      <description><![CDATA[ <p>Episode 1 from Adventures in Odyssey</p> ]]></description>
+      <content:encoded><p>Episode 1 from Adventures in Odyssey</p></content:encoded>
       <enclosure url="http://web.archive.org/web/20130408183215oe_/media.focusonthefamily.com/fotf/mp3/aio/aio_20130408.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-1</guid>
+      <link>https://www.focusonthefamily.com/adventuresinodyssey/episodes/1/</link>
       <pubDate>1987-01-01T00:00:00Z</pubDate>
     </item>
     <item>
       <title>2: The Life of the Party</title>
-      <description>Episode 2 from Adventures in Odyssey</description>
+      <itunes:subtitle>Episode 2</itunes:subtitle>
+      <itunes:summary>Episode 2 from Adventures in Odyssey</itunes:summary>
+      <description><![CDATA[ <p>Episode 2 from Adventures in Odyssey</p> ]]></description>
+      <content:encoded><p>Episode 2 from Adventures in Odyssey</p></content:encoded>
       <enclosure url="http://cdn.subsplash.com/audios/FMDDCD/d1013e8e-7d8d-48b1-8f8e-1461c1bf7193/audio.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2</guid>
+      <link>https://www.focusonthefamily.com/adventuresinodyssey/episodes/2/</link>
       <pubDate>1987-01-01T00:00:00Z</pubDate>
     </item>
     <item>
       <title>3: Lights Out at Whit's End</title>
-      <description>Episode 3 from Adventures in Odyssey</description>
+      <itunes:subtitle>Episode 3</itunes:subtitle>
+      <itunes:summary>Episode 3 from Adventures in Odyssey</itunes:summary>
+      <description><![CDATA[ <p>Episode 3 from Adventures in Odyssey</p> ]]></description>
+      <content:encoded><p>Episode 3 from Adventures in Odyssey</p></content:encoded>
       <enclosure url="https://dru9izvdrxecb.cloudfront.net/episodes/003-lights-out-at-whits-end.m4a?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kcnU5aXp2ZHJ4ZWNiLmNsb3VkZnJvbnQubmV0L2VwaXNvZGVzLzAwMy1saWdodHMtb3V0LWF0LXdoaXRzLWVuZC5tNGEiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NDE0MjU4NjJ9fX1dfQ__&Signature=U5zOM-00ClcvD~q2d38fqSQkc52rqeq9IMbaoTf4zy~yX4G3uAJ2IQDkIjq9eBuQNGaWqDiII0Rmd3mEKNz2~ji9WMOBi3qHvwTnEyek5C27c~K1q~-ttLHWQ8-Qb1f0g31n~1rv2ipw8c6XHfHHOgTFlsdRf~0roHsoNux-z-YvpetOiUESeGWxZy3SlMja4s24r89gA0yF34-im1iI80IxxkhVz~ukOg8l6ksratRJ6Vm68eUfHHRTJpBqqrsS5qNWti7W55L84FjIC7ZKkcPC-gomii-7HiqP0GnxdwKOWb9BuW4J1IVE0j9K98x2aaQ4r6RQr5PzQFo~fze9RQ__&Key-Pair-Id=APKAJZULR27TRHAJYU6A" type="audio/mp4"/>
+      <guid isPermaLink="false">episode-3</guid>
+      <link>https://www.focusonthefamily.com/adventuresinodyssey/episodes/3/</link>
       <pubDate>1987-01-01T00:00:00Z</pubDate>
     </item>
     <item>
       <title>4: Connie Comes to Town</title>
-      <description>Episode 4 from Adventures in Odyssey</description>
+      <itunes:subtitle>Episode 4</itunes:subtitle>
+      <itunes:summary>Episode 4 from Adventures in Odyssey</itunes:summary>
+      <description><![CDATA[ <p>Episode 4 from Adventures in Odyssey</p> ]]></description>
+      <content:encoded><p>Episode 4 from Adventures in Odyssey</p></content:encoded>
       <enclosure url="http://cdn.subsplash.com/audios/FMDDCD/1ae4e8ec-89dc-4f02-b260-30caf2a8b26b/audio.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-4</guid>
+      <link>https://www.focusonthefamily.com/adventuresinodyssey/episodes/4/</link>
       <pubDate>1987-01-01T00:00:00Z</pubDate>
     </item>
     <item>
       <title>5: Gifts for Madge and Guy</title>
-      <description>Episode 5 from Adventures in Odyssey</description>
+      <itunes:subtitle>Episode 5</itunes:subtitle>
+      <itunes:summary>Episode 5 from Adventures in Odyssey</itunes:summary>
+      <description><![CDATA[ <p>Episode 5 from Adventures in Odyssey</p> ]]></description>
+      <content:encoded><p>Episode 5 from Adventures in Odyssey</p></content:encoded>
       <enclosure url="http://web.archive.org/web/20191206224045oe_/www.focusonthefamily.com/wp-content/uploads/2019/11/ody5_2019-12-06-Gifts-for-Madge-and-Guy.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-5</guid>
+      <link>https://www.focusonthefamily.com/adventuresinodyssey/episodes/5/</link>
       <pubDate>1987-01-01T00:00:00Z</pubDate>
     </item>
     <item>
       <title>7: Promises, Promises</title>
-      <description>Episode 7 from Adventures in Odyssey</description>
+      <itunes:subtitle>Episode 7</itunes:subtitle>
+      <itunes:summary>Episode 7 from Adventures in Odyssey</itunes:summary>
+      <description><![CDATA[ <p>Episode 7 from Adventures in Odyssey</p> ]]></description>
+      <content:encoded><p>Episode 7 from Adventures in Odyssey</p></content:encoded>
       <enclosure url="http://cdn.subsplash.com/audios/FMDDCD/de43ff7c-ebaa-4e32-9c14-744edaee4deb/audio.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-7</guid>
+      <link>https://www.focusonthefamily.com/adventuresinodyssey/episodes/7/</link>
       <pubDate>1988-01-01T00:00:00Z</pubDate>
     </item>
     <item>
       <title>8: Dental Dilemma</title>
-      <description>Episode 8 from Adventures in Odyssey</description>
+      <itunes:subtitle>Episode 8</itunes:subtitle>
+      <itunes:summary>Episode 8 from Adventures in Odyssey</itunes:summary>
+      <description><![CDATA[ <p>Episode 8 from Adventures in Odyssey</p> ]]></description>
+      <content:encoded><p>Episode 8 from Adventures in Odyssey</p></content:encoded>
       <enclosure url="http://cdn.subsplash.com/audios/FMDDCD/719a54e8-5bab-4f17-9a37-b704793e1c24/audio.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-8</guid>
+      <link>https://www.focusonthefamily.com/adventuresinodyssey/episodes/8/</link>
       <pubDate>1988-01-01T00:00:00Z</pubDate>
     </item>
     <item>
       <title>9: Doing Unto Others</title>
-      <description>Episode 9 from Adventures in Odyssey</description>
+      <itunes:subtitle>Episode 9</itunes:subtitle>
+      <itunes:summary>Episode 9 from Adventures in Odyssey</itunes:summary>
+      <description><![CDATA[ <p>Episode 9 from Adventures in Odyssey</p> ]]></description>
+      <content:encoded><p>Episode 9 from Adventures in Odyssey</p></content:encoded>
       <enclosure url="https://dru9izvdrxecb.cloudfront.net/episodes/009-doing-unto-others.m4a?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kcnU5aXp2ZHJ4ZWNiLmNsb3VkZnJvbnQubmV0L2VwaXNvZGVzLzAwOS1kb2luZy11bnRvLW90aGVycy5tNGEiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NDE0MjU5MTN9fX1dfQ__&Signature=ZRBLam1yVnsbyTKOz594y-H3pejf7ze4IJcI3XtXkEm-wF5MTUzL2THml315ei67kg3rueOeJiE0~aW~NyfGhnknKyIdwD6d1eNC81jpD1ypGQmS3afZHZGcbpuQUytCAN3eErIDWXO1L~D7lVuYnnOL-aLg2ujp7Ep48YqpeosdntSobymLuIkdzHQUHWR5aFmPVLd-JWAbZRv-QqOfM9qag~lcchc8enO7H7Z1cUzJAmeYqEECeUfPzRFCM0SThD03ZgSEsuFp3Srrhk5M5ytDKjWfmPObOEZwk-dn4oEdqjgQgpSSIFdRq5O75syqjdNjw-ri9hkSDHvgP8hLA__&Key-Pair-Id=APKAJZULR27TRHAJYU6A" type="audio/mp4"/>
+      <guid isPermaLink="false">episode-9</guid>
+      <link>https://www.focusonthefamily.com/adventuresinodyssey/episodes/9/</link>
       <pubDate>1988-01-01T00:00:00Z</pubDate>
     </item>
     <item>
       <title>10: Nothing to Fear</title>
-      <description>Episode 10 from Adventures in Odyssey</description>
+      <itunes:subtitle>Episode 10</itunes:subtitle>
+      <itunes:summary>Episode 10 from Adventures in Odyssey</itunes:summary>
+      <description><![CDATA[ <p>Episode 10 from Adventures in Odyssey</p> ]]></description>
+      <content:encoded><p>Episode 10 from Adventures in Odyssey</p></content:encoded>
       <enclosure url="http://cdn.subsplash.com/audios/FMDDCD/00046699-39d9-470a-80a0-aae3762181cd/audio.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-10</guid>
+      <link>https://www.focusonthefamily.com/adventuresinodyssey/episodes/10/</link>
       <pubDate>1988-01-01T00:00:00Z</pubDate>
     </item>
     <item>
       <title>11: Addictions Can Be Habit Forming</title>
-      <description>Episode 11 from Adventures in Odyssey</description>
+      <itunes:subtitle>Episode 11</itunes:subtitle>
+      <itunes:summary>Episode 11 from Adventures in Odyssey</itunes:summary>
+      <description><![CDATA[ <p>Episode 11 from Adventures in Odyssey</p> ]]></description>
+      <content:encoded><p>Episode 11 from Adventures in Odyssey</p></content:encoded>
       <enclosure url="https://dru9izvdrxecb.cloudfront.net/episodes/011-addictions-can-be-habit-forming.m4a?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kcnU5aXp2ZHJ4ZWNiLmNsb3VkZnJvbnQubmV0L2VwaXNvZGVzLzAxMS1hZGRpY3Rpb25zLWNhbi1iZS1oYWJpdC1mb3JtaW5nLm00YSIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY0MTQyNTk1MX19fV19&Signature=AF7Dk2SgiyBrlaCX4yKhfvGung6OJ6Yilc1xXIfIJrE3Xb7~4A5ijcpiqEOz6YQPndzRX1YUPEpTpDQZErWFO6YJifmwqy2ZHdPsYbuIUlwdeaMGnxXW51jeEk95Eq4R-dAUXvjNNqfr97G8ZNcYBA7mI9Ky~JdsZtUFNrsDb8OaitpVpi393OFtSEE1CCOifbfR~gRuFLNX1EpNfPX~cjxKX18nrTjVRQukzqwB11tcW7B4qjmpSDwN7yXNx0~gZI8w5spRXZfDGpG2mMvhbXcEVjUsG38~pcgg~nItHjvR4vlKhWJ3AHC2fPZ16amMVXI08ZGeP0UOXqopAfyYbw__&Key-Pair-Id=APKAJZULR27TRHAJYU6A" type="audio/mp4"/>
+      <guid isPermaLink="false">episode-11</guid>
+      <link>https://www.focusonthefamily.com/adventuresinodyssey/episodes/11/</link>
       <pubDate>1988-01-01T00:00:00Z</pubDate>
     </item>
     <item>
       <title>12: The Tangled Web</title>
-      <description>Episode 12 from Adventures in Odyssey</description>
+      <itunes:subtitle>Episode 12</itunes:subtitle>
+      <itunes:summary>Episode 12 from Adventures in Odyssey</itunes:summary>
+      <description><![CDATA[ <p>Episode 12 from Adventures in Odyssey</p> ]]></description>
+      <content:encoded><p>Episode 12 from Adventures in Odyssey</p></content:encoded>
       <enclosure url="http://cdn.subsplash.com/audios/FMDDCD/9bda7ba1-5e3d-4113-a981-7b31d0ad2ccb/audio.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-12</guid>
+      <link>https://www.focusonthefamily.com/adventuresinodyssey/episodes/12/</link>
       <pubDate>1988-01-01T00:00:00Z</pubDate>
     </item>
     <item>
       <title>13: Bobby's Valentine</title>
-      <description>Episode 13 from Adventures in Odyssey</description>
+      <itunes:subtitle>Episode 13</itunes:subtitle>
+      <itunes:summary>Episode 13 from Adventures in Odyssey</itunes:summary>
+      <description><![CDATA[ <p>Episode 13 from Adventures in Odyssey</p> ]]></description>
+      <content:encoded><p>Episode 13 from Adventures in Odyssey</p></content:encoded>
       <enclosure url="https://dru9izvdrxecb.cloudfront.net/episodes/013-bobbys-valentine.m4a?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kcnU5aXp2ZHJ4ZWNiLmNsb3VkZnJvbnQubmV0L2VwaXNvZGVzLzAxMy1ib2JieXMtdmFsZW50aW5lLm00YSIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY0MTQyNTk4Mn19fV19&Signature=RWRdzYMiyyz7CycPMNyiupSdgmLUh~NNqURao~r1jTH6A5~i7oV3oQgxEaYxksyk~nwB2bx0hF0cWZOdosIqo6n2xMdN6XxsVmyCvOsu0MsnVd0Hb277ViEt-0eqik4qAvxlQYLZ-LQL2n5Vn6D4ZT2QdGlcONu3ILqWq4L9BmmLSGEusV-t3oNUiDFxpvHDvlxvo9nNqDlmxQ6Oe6BgWweD6AI-2ojjeBwVoYdcMdeX-Qz3Go1e3h5Tn77x3fp-VcD2kDMo7hkRa4bSEvE-apO~dh4~bGJpS4gXDxASOwD-0HbS00T2J1cwcDEJ95YBP5i6JNgCyE3xoLbvb3bf7g__&Key-Pair-Id=APKAJZULR27TRHAJYU6A" type="audio/mp4"/>
+      <guid isPermaLink="false">episode-13</guid>
+      <link>https://www.focusonthefamily.com/adventuresinodyssey/episodes/13/</link>
       <pubDate>1988-01-01T00:00:00Z</pubDate>
     </item>
     <item>
       <title>14: Missed It by That Much</title>
-      <description>Episode 14 from Adventures in Odyssey</description>
+      <itunes:subtitle>Episode 14</itunes:subtitle>
+      <itunes:summary>Episode 14 from Adventures in Odyssey</itunes:summary>
+      <description><![CDATA[ <p>Episode 14 from Adventures in Odyssey</p> ]]></description>
+      <content:encoded><p>Episode 14 from Adventures in Odyssey</p></content:encoded>
       <enclosure url="https://dru9izvdrxecb.cloudfront.net/episodes/014-missed-it-by-that-much.m4a?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kcnU5aXp2ZHJ4ZWNiLmNsb3VkZnJvbnQubmV0L2VwaXNvZGVzLzAxNC1taXNzZWQtaXQtYnktdGhhdC1tdWNoLm00YSIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY0MTQyNjAyMn19fV19&Signature=bGX7oybJ1ehbpNYkPWduUWnkRUWR9OnVdr-Hfj0SXnykq1VwvCbdnTvP2VejLk5iZRxNR9TCsvHt-JAbnYhjp1CEF-Sk~WRfKPAjUdV3EBb0uuhDlTXWCrKHuhltYizc8d05r1~PPVwhj2GJkkSKVG6bVAgOG4UvXVRA0CC0AEV~keOyeRnUDxRox0WCK7Nc5Rlw3MaKuCyNhXiGauUhyrmd3DqF1-SjlELuu4lmpntHCPUd1tZUrtrWPxOSxX94QsdV2qNCi9wdYG02Hr7XfsvTiX47t~nHl3GD~FNg4eAebUNLv~RJMVJLq-6sfdVEgs40ARei3ZKjY7TvA~wqOA__&Key-Pair-Id=APKAJZULR27TRHAJYU6A" type="audio/mp4"/>
+      <guid isPermaLink="false">episode-14</guid>
+      <link>https://www.focusonthefamily.com/adventuresinodyssey/episodes/14/</link>
       <pubDate>1988-01-01T00:00:00Z</pubDate>
     </item>
     <item>
       <title>15: My Brother's Keeper</title>
-      <description>Episode 15 from Adventures in Odyssey</description>
+      <itunes:subtitle>Episode 15</itunes:subtitle>
+      <itunes:summary>Episode 15 from Adventures in Odyssey</itunes:summary>
+      <description><![CDATA[ <p>Episode 15 from Adventures in Odyssey</p> ]]></description>
+      <content:encoded><p>Episode 15 from Adventures in Odyssey</p></content:encoded>
       <enclosure url="http://cdn.subsplash.com/audios/FMDDCD/3985c150-fbc3-4437-89b5-cdbda682ef29/audio.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-15</guid>
+      <link>https://www.focusonthefamily.com/adventuresinodyssey/episodes/15/</link>
       <pubDate>1988-01-01T00:00:00Z</pubDate>
     </item>
     <item>
       <title>16: No Stupid Questions</title>
-      <description>Episode 16 from Adventures in Odyssey</description>
+      <itunes:subtitle>Episode 16</itunes:subtitle>
+      <itunes:summary>Episode 16 from Adventures in Odyssey</itunes:summary>
+      <description><![CDATA[ <p>Episode 16 from Adventures in Odyssey</p> ]]></description>
+      <content:encoded><p>Episode 16 from Adventures in Odyssey</p></content:encoded>
       <enclosure url="http://cdn.subsplash.com/audios/FMDDCD/5e916366-83cf-40ee-a9a9-90195c9fec0a/audio.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-16</guid>
+      <link>https://www.focusonthefamily.com/adventuresinodyssey/episodes/16/</link>
       <pubDate>1988-01-01T00:00:00Z</pubDate>
     </item>
     <item>
       <title>17: A Member of the Family, Part 1 of 2</title>
-      <description>Episode 17 from Adventures in Odyssey</description>
+      <itunes:subtitle>Episode 17 Part 1</itunes:subtitle>
+      <itunes:summary>Episode 17 from Adventures in Odyssey</itunes:summary>
+      <description><![CDATA[ <p>Episode 17 from Adventures in Odyssey</p> ]]></description>
+      <content:encoded><p>Episode 17 from Adventures in Odyssey</p></content:encoded>
       <enclosure url="http://cdn.subsplash.com/audios/FMDDCD/1814402f-3a87-48a8-a5b7-69b7361c67ea/audio.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-17-part-1</guid>
+      <link>https://www.focusonthefamily.com/adventuresinodyssey/episodes/17-part-1/</link>
       <pubDate>1988-01-01T00:00:00Z</pubDate>
     </item>
     <item>
       <title>18: A Member of the Family, Part 2 of 2</title>
-      <description>Episode 18 from Adventures in Odyssey</description>
+      <itunes:subtitle>Episode 18 Part 2</itunes:subtitle>
+      <itunes:summary>Episode 18 from Adventures in Odyssey</itunes:summary>
+      <description><![CDATA[ <p>Episode 18 from Adventures in Odyssey</p> ]]></description>
+      <content:encoded><p>Episode 18 from Adventures in Odyssey</p></content:encoded>
       <enclosure url="http://cdn.subsplash.com/audios/FMDDCD/c37f3c93-bf48-4870-aabb-7ef975b682f3/audio.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-18-part-2</guid>
+      <link>https://www.focusonthefamily.com/adventuresinodyssey/episodes/18-part-2/</link>
       <pubDate>1988-01-01T00:00:00Z</pubDate>
     </item>
     <item>
       <title>19: Recollections</title>
-      <description>Episode 19 from Adventures in Odyssey</description>
+      <itunes:subtitle>Episode 19</itunes:subtitle>
+      <itunes:summary>Episode 19 from Adventures in Odyssey</itunes:summary>
+      <description><![CDATA[ <p>Episode 19 from Adventures in Odyssey</p> ]]></description>
+      <content:encoded><p>Episode 19 from Adventures in Odyssey</p></content:encoded>
       <enclosure url="http://cdn.subsplash.com/audios/FMDDCD/b8360fe9-3e5b-4208-b879-1d941fcdf6d6/audio.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-19</guid>
+      <link>https://www.focusonthefamily.com/adventuresinodyssey/episodes/19/</link>
       <pubDate>1988-01-01T00:00:00Z</pubDate>
     </item>
     <item>
       <title>20: Mike Makes Right</title>
-      <description>Episode 20 from Adventures in Odyssey</description>
+      <itunes:subtitle>Episode 20</itunes:subtitle>
+      <itunes:summary>Episode 20 from Adventures in Odyssey</itunes:summary>
+      <description><![CDATA[ <p>Episode 20 from Adventures in Odyssey</p> ]]></description>
+      <content:encoded><p>Episode 20 from Adventures in Odyssey</p></content:encoded>
       <enclosure url="http://cdn.subsplash.com/audios/FMDDCD/b8360fe9-3e5b-4208-b879-1d941fcdf6d6/audio.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-20</guid>
+      <link>https://www.focusonthefamily.com/adventuresinodyssey/episodes/20/</link>
       <pubDate>1988-01-01T00:00:00Z</pubDate>
     </item>
     <item>
       <title>100: Ice Fishing</title>
-      <description>Episode 100 from Adventures in Odyssey</description>
+      <itunes:subtitle>Episode 100</itunes:subtitle>
+      <itunes:summary>Episode 100 from Adventures in Odyssey</itunes:summary>
+      <description><![CDATA[ <p>Episode 100 from Adventures in Odyssey</p> ]]></description>
+      <content:encoded><p>Episode 100 from Adventures in Odyssey</p></content:encoded>
       <enclosure url="http://cdn.subsplash.com/audios/FMDDCD/5358fe80-e84c-4f89-84f0-144b9cfd5b28/audio.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-100</guid>
+      <link>https://www.focusonthefamily.com/adventuresinodyssey/episodes/100/</link>
       <pubDate>1990-01-01T00:00:00Z</pubDate>
     </item>
     <item>
       <title>101: Scattered Seeds</title>
-      <description>Episode 101 from Adventures in Odyssey</description>
+      <itunes:subtitle>Episode 101</itunes:subtitle>
+      <itunes:summary>Episode 101 from Adventures in Odyssey</itunes:summary>
+      <description><![CDATA[ <p>Episode 101 from Adventures in Odyssey</p> ]]></description>
+      <content:encoded><p>Episode 101 from Adventures in Odyssey</p></content:encoded>
       <enclosure url="http://cdn.subsplash.com/audios/FMDDCD/69037793-62bf-4960-b2ef-9b54fa3dc9cd/audio.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-101</guid>
+      <link>https://www.focusonthefamily.com/adventuresinodyssey/episodes/101/</link>
       <pubDate>1990-01-01T00:00:00Z</pubDate>
     </item>
     <item>
       <title>557: A Lamb's Tale</title>
-      <description>Episode 557 from Adventures in Odyssey</description>
+      <itunes:subtitle>Episode 557</itunes:subtitle>
+      <itunes:summary>Episode 557 from Adventures in Odyssey</itunes:summary>
+      <description><![CDATA[ <p>Episode 557 from Adventures in Odyssey</p> ]]></description>
+      <content:encoded><p>Episode 557 from Adventures in Odyssey</p></content:encoded>
       <enclosure url="http://web.archive.org/web/20201228084126oe_/cdn.subsplash.com/audios/FMDDCD/_source/54615a0a-73bb-4c8d-b19d-20811d006646/audio.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-557</guid>
+      <link>https://www.focusonthefamily.com/adventuresinodyssey/episodes/557/</link>
       <pubDate>2004-01-01T00:00:00Z</pubDate>
     </item>
     <item>
       <title>558: A Glass Darkly</title>
-      <description>Episode 558 from Adventures in Odyssey</description>
+      <itunes:subtitle>Episode 558</itunes:subtitle>
+      <itunes:summary>Episode 558 from Adventures in Odyssey</itunes:summary>
+      <description><![CDATA[ <p>Episode 558 from Adventures in Odyssey</p> ]]></description>
+      <content:encoded><p>Episode 558 from Adventures in Odyssey</p></content:encoded>
       <enclosure url="http://web.archive.org/web/20210205051814oe_/cdn.subsplash.com/audios/FMDDCD/_source/e4835f70-996e-4b88-b7a1-fee0c1e90382/audio.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-558</guid>
+      <link>https://www.focusonthefamily.com/adventuresinodyssey/episodes/558/</link>
       <pubDate>2005-01-01T00:00:00Z</pubDate>
     </item>
     <item>
       <title>559: The Coolest Dog</title>
-      <description>Episode 559 from Adventures in Odyssey</description>
+      <itunes:subtitle>Episode 559</itunes:subtitle>
+      <itunes:summary>Episode 559 from Adventures in Odyssey</itunes:summary>
+      <description><![CDATA[ <p>Episode 559 from Adventures in Odyssey</p> ]]></description>
+      <content:encoded><p>Episode 559 from Adventures in Odyssey</p></content:encoded>
       <enclosure url="http://web.archive.org/web/20210205051814oe_/cdn.subsplash.com/audios/FMDDCD/_source/bc222a7d-1644-4d38-aa95-ce8c7417e3ce/audio.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-559</guid>
+      <link>https://www.focusonthefamily.com/adventuresinodyssey/episodes/559/</link>
       <pubDate>2005-01-01T00:00:00Z</pubDate>
     </item>
     <item>
       <title>560: The Present Long Ago</title>
-      <description>Episode 560 from Adventures in Odyssey</description>
+      <itunes:subtitle>Episode 560</itunes:subtitle>
+      <itunes:summary>Episode 560 from Adventures in Odyssey</itunes:summary>
+      <description><![CDATA[ <p>Episode 560 from Adventures in Odyssey</p> ]]></description>
+      <content:encoded><p>Episode 560 from Adventures in Odyssey</p></content:encoded>
       <enclosure url="http://web.archive.org/web/20210210202029oe_/cdn.subsplash.com/audios/FMDDCD/_source/8b0e356e-226b-446c-9ff8-8ae307ed7e3d/audio.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-560</guid>
+      <link>https://www.focusonthefamily.com/adventuresinodyssey/episodes/560/</link>
       <pubDate>2005-01-01T00:00:00Z</pubDate>
     </item>
     <item>
       <title>561: Lost by a Nose</title>
-      <description>Episode 561 from Adventures in Odyssey</description>
+      <itunes:subtitle>Episode 561</itunes:subtitle>
+      <itunes:summary>Episode 561 from Adventures in Odyssey</itunes:summary>
+      <description><![CDATA[ <p>Episode 561 from Adventures in Odyssey</p> ]]></description>
+      <content:encoded><p>Episode 561 from Adventures in Odyssey</p></content:encoded>
       <enclosure url="http://web.archive.org/web/20210210202029oe_/cdn.subsplash.com/audios/FMDDCD/_source/541b7176-e3f5-4a0c-a232-f2e6e1ee2360/audio.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-561</guid>
+      <link>https://www.focusonthefamily.com/adventuresinodyssey/episodes/561/</link>
       <pubDate>2005-01-01T00:00:00Z</pubDate>
     </item>
     <item>
       <title>562: The Last I Do</title>
-      <description>Episode 562 from Adventures in Odyssey</description>
+      <itunes:subtitle>Episode 562</itunes:subtitle>
+      <itunes:summary>Episode 562 from Adventures in Odyssey</itunes:summary>
+      <description><![CDATA[ <p>Episode 562 from Adventures in Odyssey</p> ]]></description>
+      <content:encoded><p>Episode 562 from Adventures in Odyssey</p></content:encoded>
       <enclosure url="http://media.focusonthefamily.com/aio/mp3/AIO_562_The_Last_I_Do.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-562</guid>
+      <link>https://www.focusonthefamily.com/adventuresinodyssey/episodes/562/</link>
       <pubDate>2005-01-01T00:00:00Z</pubDate>
     </item>
     <item>
       <title>563: Tuesdays with Wooton</title>
-      <description>Episode 563 from Adventures in Odyssey</description>
+      <itunes:subtitle>Episode 563</itunes:subtitle>
+      <itunes:summary>Episode 563 from Adventures in Odyssey</itunes:summary>
+      <description><![CDATA[ <p>Episode 563 from Adventures in Odyssey</p> ]]></description>
+      <content:encoded><p>Episode 563 from Adventures in Odyssey</p></content:encoded>
       <enclosure url="http://cdn.subsplash.com/audios/FMDDCD/4c85f008-6421-4794-8ba9-0ecdd50b5a74/audio.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-563</guid>
+      <link>https://www.focusonthefamily.com/adventuresinodyssey/episodes/563/</link>
       <pubDate>2005-01-01T00:00:00Z</pubDate>
     </item>
     <item>
       <title>564: A Most Intriguing Question</title>
-      <description>Episode 564 from Adventures in Odyssey</description>
+      <itunes:subtitle>Episode 564</itunes:subtitle>
+      <itunes:summary>Episode 564 from Adventures in Odyssey</itunes:summary>
+      <description><![CDATA[ <p>Episode 564 from Adventures in Odyssey</p> ]]></description>
+      <content:encoded><p>Episode 564 from Adventures in Odyssey</p></content:encoded>
       <enclosure url="http://myhopenow111738-mhnstage.s3.us-east-2.amazonaws.com/public/audio/ff795f75-60ab-4390-aa1e-baa55bed99a8/broadcasts/20bbea9d-d2df-4111-b010-ddb826d52ae0/audioFile.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-564</guid>
+      <link>https://www.focusonthefamily.com/adventuresinodyssey/episodes/564/</link>
       <pubDate>2005-01-01T00:00:00Z</pubDate>
     </item>
     <item>
       <title>565: A Most Surprising Answer</title>
-      <description>Episode 565 from Adventures in Odyssey</description>
+      <itunes:subtitle>Episode 565</itunes:subtitle>
+      <itunes:summary>Episode 565 from Adventures in Odyssey</itunes:summary>
+      <description><![CDATA[ <p>Episode 565 from Adventures in Odyssey</p> ]]></description>
+      <content:encoded><p>Episode 565 from Adventures in Odyssey</p></content:encoded>
       <enclosure url="http://myhopenow111738-mhnstage.s3.us-east-2.amazonaws.com/public/audio/ff795f75-60ab-4390-aa1e-baa55bed99a8/broadcasts/8d6ccc16-b1ec-45de-9169-4fd950a5f261/audioFile.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-565</guid>
+      <link>https://www.focusonthefamily.com/adventuresinodyssey/episodes/565/</link>
       <pubDate>2005-01-01T00:00:00Z</pubDate>
     </item>
     <item>
       <title>566: A Most Extraordinary Conclusion</title>
-      <description>Episode 566 from Adventures in Odyssey</description>
+      <itunes:subtitle>Episode 566</itunes:subtitle>
+      <itunes:summary>Episode 566 from Adventures in Odyssey</itunes:summary>
+      <description><![CDATA[ <p>Episode 566 from Adventures in Odyssey</p> ]]></description>
+      <content:encoded><p>Episode 566 from Adventures in Odyssey</p></content:encoded>
       <enclosure url="http://myhopenow111738-mhnstage.s3.us-east-2.amazonaws.com/public/audio/ff795f75-60ab-4390-aa1e-baa55bed99a8/broadcasts/c0097f9e-01db-41da-9712-1a19fa9453c4/audioFile.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-566</guid>
+      <link>https://www.focusonthefamily.com/adventuresinodyssey/episodes/566/</link>
       <pubDate>2005-01-01T00:00:00Z</pubDate>
     </item>
     <item>
       <title>567: Two Friends and a Truck</title>
-      <description>Episode 567 from Adventures in Odyssey</description>
+      <itunes:subtitle>Episode 567</itunes:subtitle>
+      <itunes:summary>Episode 567 from Adventures in Odyssey</itunes:summary>
+      <description><![CDATA[ <p>Episode 567 from Adventures in Odyssey</p> ]]></description>
+      <content:encoded><p>Episode 567 from Adventures in Odyssey</p></content:encoded>
       <enclosure url="http://myhopenow111738-mhnstage.s3.us-east-2.amazonaws.com/public/audio/ff795f75-60ab-4390-aa1e-baa55bed99a8/broadcasts/2a3d89a5-ae99-48fe-959e-f52ecae588b2/audioFile.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-567</guid>
+      <link>https://www.focusonthefamily.com/adventuresinodyssey/episodes/567/</link>
       <pubDate>2005-01-01T00:00:00Z</pubDate>
     </item>
     <item>
       <title>568: The Power of One</title>
-      <description>Episode 568 from Adventures in Odyssey</description>
+      <itunes:subtitle>Episode 568</itunes:subtitle>
+      <itunes:summary>Episode 568 from Adventures in Odyssey</itunes:summary>
+      <description><![CDATA[ <p>Episode 568 from Adventures in Odyssey</p> ]]></description>
+      <content:encoded><p>Episode 568 from Adventures in Odyssey</p></content:encoded>
       <enclosure url="http://web.archive.org/web/20210212213732oe_/cdn.subsplash.com/audios/FMDDCD/_source/d25bbecf-471f-451c-ac14-a808de7cfbfb/audio.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-568</guid>
+      <link>https://www.focusonthefamily.com/adventuresinodyssey/episodes/568/</link>
       <pubDate>2005-01-01T00:00:00Z</pubDate>
     </item>
     <item>
       <title>569: The Invisible Dog</title>
-      <description>Episode 569 from Adventures in Odyssey</description>
+      <itunes:subtitle>Episode 569</itunes:subtitle>
+      <itunes:summary>Episode 569 from Adventures in Odyssey</itunes:summary>
+      <description><![CDATA[ <p>Episode 569 from Adventures in Odyssey</p> ]]></description>
+      <content:encoded><p>Episode 569 from Adventures in Odyssey</p></content:encoded>
       <enclosure url="http://myhopenow111738-mhnstage.s3.us-east-2.amazonaws.com/public/audio/ff795f75-60ab-4390-aa1e-baa55bed99a8/broadcasts/5f812525-e2d5-4433-b1b4-a74b76c1cf02/audioFile.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-569</guid>
+      <link>https://www.focusonthefamily.com/adventuresinodyssey/episodes/569/</link>
       <pubDate>2005-01-01T00:00:00Z</pubDate>
     </item>
     <item>
       <title>570: For Better or for Worse, Part 1 of 2</title>
-      <description>Episode 570 from Adventures in Odyssey</description>
+      <itunes:subtitle>Episode 570 Part 1</itunes:subtitle>
+      <itunes:summary>Episode 570 from Adventures in Odyssey</itunes:summary>
+      <description><![CDATA[ <p>Episode 570 from Adventures in Odyssey</p> ]]></description>
+      <content:encoded><p>Episode 570 from Adventures in Odyssey</p></content:encoded>
       <enclosure url="http://myhopenow111738-mhnstage.s3.us-east-2.amazonaws.com/public/audio/ff795f75-60ab-4390-aa1e-baa55bed99a8/broadcasts/225e8a9c-c161-4fd3-95d0-37201c517c52/audioFile.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-570-part-1</guid>
+      <link>https://www.focusonthefamily.com/adventuresinodyssey/episodes/570-part-1/</link>
       <pubDate>2005-01-01T00:00:00Z</pubDate>
     </item>
     <item>
       <title>571: For Better or for Worse, Part 2 of 2</title>
-      <description>Episode 571 from Adventures in Odyssey</description>
+      <itunes:subtitle>Episode 571 Part 2</itunes:subtitle>
+      <itunes:summary>Episode 571 from Adventures in Odyssey</itunes:summary>
+      <description><![CDATA[ <p>Episode 571 from Adventures in Odyssey</p> ]]></description>
+      <content:encoded><p>Episode 571 from Adventures in Odyssey</p></content:encoded>
       <enclosure url="http://cdn.subsplash.com/audios/FMDDCD/9825a9ff-bac4-44c2-b372-b76ad7b21722/audio.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-571-part-2</guid>
+      <link>https://www.focusonthefamily.com/adventuresinodyssey/episodes/571-part-2/</link>
       <pubDate>2005-01-01T00:00:00Z</pubDate>
     </item>
   </channel>
