@@ -1,26 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
-    <generator>Adventures in Odyssey Podcast Feed</generator>
+    <generator>Adventures in Odyssey - Collected Episodes</generator>
     <title>Adventures in Odyssey Episodes</title>
     <link>https://www.focusonthefamily.com/adventuresinodyssey</link>
     <language>en</language>
     <copyright>© Focus on the Family</copyright>
     <itunes:author>Focus on the Family</itunes:author>
-    <itunes:summary>Listen to previously aired Adventures in Odyssey episodes put out by Focus on the Family! For detailed information concerning each episode, go to fansites www.aiohq.com and www.aiowiki.com</itunes:summary>
+    <itunes:summary>Generated based on the episode list at https://www.dev.dantan.net/aioEpisodes</itunes:summary>
     <podcast:guid>adventures-in-odyssey-episodes</podcast:guid>
     <description><![CDATA[ <p>Listen to previously aired Adventures in Odyssey episodes put out by Focus on the Family! For detailed information concerning each episode, go to fansites www.aiohq.com and www.aiowiki.com</p> ]]></description>
     <itunes:type>episodic</itunes:type>
     <podcast:locked>no</podcast:locked>
-    <itunes:owner>
-      <itunes:name>Focus on the Family</itunes:name>
-      <itunes:email>info@focusonthefamily.com</itunes:email>
-    </itunes:owner>
-    <itunes:new-feed-url>https://www.focusonthefamily.com/adventuresinodyssey/feed</itunes:new-feed-url>
     <itunes:category text="Kids &amp; Family">
       <itunes:category text="Stories for Kids"/>
     </itunes:category>
-    <itunes:image href="https://www.focusonthefamily.com/wp-content/uploads/2019/07/AIO-logo.png"/>
+    <itunes:image href="https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Adventuresinodyssey.png/447px-Adventuresinodyssey.png"/>
     <!-- BEGIN ITEMS -->
 
     <item>
